@@ -1,12 +1,12 @@
-import Formulaire from './components/Formulaire'
-import './App.css';
+import './App.css'
+import Map from './Map'
 
 function App() {
   return (
     <div className="App">
-      <Formulaire />
+      <Map />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
